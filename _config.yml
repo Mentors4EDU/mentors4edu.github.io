@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Andrew's Blog
 description: My short and personal GitHub blog!
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+  
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-readme-index
+
+branch: master
