@@ -7,12 +7,11 @@ url: ""
 # User settings
 username: lorem ipsum
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+twitter_username: gamer456148
+github_username:  Mentors4EDU
+# gplus_username:  loremipsum
+linkedin_public_url: www.linkedin.com/in/gamer456148
+# disqus_username: loremipsum
 profile_picture: https://avatars1.githubusercontent.com/u/12502053?s=460&u=03c9ac7a9cc80999e8255ae1a7970575a7c1e356&v=4.png
 
 # Build settings
