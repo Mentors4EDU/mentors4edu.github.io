@@ -107,12 +107,12 @@ projects:
     url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3    
   - name: Stark Drones
     url: https://www.starkdrones.org
-  - name: Startup Tools
-    url: https://mentors4edu.github.io/Startup-Tools/
   - name: SnackRunner
     url: hhttps://www.crunchbase.com/organization/snackrunner 
   - name: Mentors4EDU
-    url: https://www.edustudio.org
+    url: https://www.edustudio.org    
+  - name: Startup Tools
+    url: https://mentors4edu.github.io/Startup-Tools/
   - name: BlockStar Labs
     url: https://www.crunchbase.com/organization/blockstar-labs
   - name: OpenFranchise
