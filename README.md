@@ -1,7 +1,5 @@
 ## [mentors4edu.github.io](https://mentors4edu.github.io/)
 
-**This is my personal GitHub site/page**
-
 #### Currently under construction
 
 **Credits:**\
