@@ -69,20 +69,30 @@ projects:
     url: https://armenia.substack.com/
   - name: HopePay
     url: https://github.com/Mentors4EDU/HopePay-App-Portal
-  - name: QP Foods
-    url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery    
   - name: BitToken
     url: https://github.com/Mentors4EDU/BitToken
+  - name: QP Foods
+    url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery    
   - name: BlockFilm
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: WeCrypto
     url: http://wecrypto.net
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
+  - name: TapRocket
+    url: https://taprocket.net       
   - name: Chainterra
     url: https://www.chainterra.com/
-  - name: TapRcoket
-    url: https://taprocket.net   
+  - name: FilmVestor
+    url: https://devpost.com/software/filmvestor
+  - name: PeerSocial
+    url: https://www.crunchbase.com/organization/peersocial
+  - name: DigitalCPR
+    url: https://www.digitalcpr.net/
+  - name: CrowdCoin
+    url: https://github.com/CrowdCoin-Team
+  - name: EtherStone
+    url: https://etherstone.org
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
