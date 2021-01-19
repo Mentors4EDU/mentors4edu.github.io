@@ -1,6 +1,6 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Andrew Kamal | Tech Enthusiast | Copt
+description: "I build technologies for startups, follow my educational journey"
 baseurl: ""
 url: ""
 
@@ -131,20 +131,20 @@ projects:
     url: https://github.com/eldsuit-innovations
   - name: The Startup Patriots
     url: https://www.crunchbase.com/organization/the-startup-patriots
+  - name: StartHub Messenger
+    url: https://www.crunchbase.com/organization/starthub-messenger    
   - name: Gamelectual Studios
     url: https://activity.games
-  - name: StartHub Messenger
-    url: https://www.crunchbase.com/organization/starthub-messenger
   - name: Future Web Standards
     url: https://starkdrones.github.io/Future-Web-Standards/
+  - name: AMKOU Aeronautics GP
+    url: https://www.crunchbase.com/organization/amkou-aeronautics-gp
+  - name: Open Innovation License
+    url: https://github.com/StarkDrones/OPNL    
   - name: SolarFuel Transportation
     url: http://www.solarfuel.us/
   - name: The Intellectualism Party
     url: https://www.volunteermatch.org/search/org1189644.jsp
-  - name: AMKOU Aeronautics GP
-    url: https://www.crunchbase.com/organization/amkou-aeronautics-gp
-  - name: Open Innovation License
-    url: https://github.com/StarkDrones/OPNL
   - name: AndSocialREW Gaming and Publishing
     url: https://www.crunchbase.com/organization/andsocialrew-gaming-and-publishing
       
