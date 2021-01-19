@@ -99,14 +99,24 @@ projects:
     url: https://github.com/Bleunomics
   - name: ChainBoard
     url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board
-  - name: OrgDes Labs
-    url: https://www.linkedin.com/showcase/orgdes-labs    
   - name: QuantPortal
     url: https:/aiqaunt.co
+  - name: OrgDes Labs
+    url: https://www.linkedin.com/showcase/orgdes-labs    
   - name: Stark Drones
     url: https://www.starkdrones.org
   - name: Startup Tools
     url: https://mentors4edu.github.io/Startup-Tools/
+  - name: HipaaSafe2.0
+    url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3
+  - name: SnackRunner
+    url: hhttps://www.crunchbase.com/organization/snackrunner 
+  - name: Mentors4EDU
+    url: https://www.edustudio.org
+  - name: BlockStar Labs
+    url: https://www.crunchbase.com/organization/blockstar-labs
+  - name: OpenFranchise
+    url: https://open-franchise.github.io    
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
