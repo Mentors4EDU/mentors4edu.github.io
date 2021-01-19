@@ -97,16 +97,16 @@ projects:
     url: https://www.crunchbase.com/organization/dealsghost
   - name: Bleunomics
     url: https://github.com/Bleunomics
-  - name: QuantPortal
-    url: https:/aiqaunt.co
   - name: ChainBoard
     url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board
+  - name: OrgDes Labs
+    url: https://www.linkedin.com/showcase/orgdes-labs    
+  - name: QuantPortal
+    url: https:/aiqaunt.co
   - name: Stark Drones
     url: https://www.starkdrones.org
   - name: Startup Tools
     url: https://mentors4edu.github.io/Startup-Tools/
-  - name: OrgDes Labs
-    url: https://www.linkedin.com/showcase/orgdes-labs     
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
