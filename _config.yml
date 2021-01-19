@@ -59,10 +59,10 @@ links:
 projects:
   - name: Lonero
     url: https://lonero.org/
-  - name: CoolCoil
-    url: https://www.crunchbase.com/organization/coolcoil    
   - name: NohVoo
     url: https://www.crunchbase.com/organization/nohvoo
+  - name: CoolCoil
+    url: https://www.crunchbase.com/organization/coolcoil    
   - name: DigiBike
     url: https://www.crunchbase.com/organization/digibike    
   - name: Armenia
@@ -71,6 +71,10 @@ projects:
     url: https://github.com/Mentors4EDU/HopePay-App-Portal        
   - name: BitToken
     url: https://github.com/Mentors4EDU/BitToken
+  - name: WeCrypto
+    url: http://wecrypto.net     
+  - name: BlockFilm
+    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
