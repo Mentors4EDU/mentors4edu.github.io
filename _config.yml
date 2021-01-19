@@ -108,7 +108,7 @@ projects:
   - name: Stark Drones
     url: https://www.starkdrones.org
   - name: SnackRunner
-    url: hhttps://www.crunchbase.com/organization/snackrunner
+    url: https://www.crunchbase.com/organization/snackrunner
   - name: Startup Tools
     url: https://mentors4edu.github.io/Startup-Tools/    
   - name: Mentors4EDU
@@ -116,7 +116,21 @@ projects:
   - name: BlockStar Labs
     url: https://www.crunchbase.com/organization/blockstar-labs
   - name: OpenFranchise
-    url: https://open-franchise.github.io    
-    
+    url: https://open-franchise.github.io
+  - name: AMKUPFashion
+    url: https://www.crunchbase.com/organization/amkupfashion
+  - name: The NonVisibles
+    url: https://www.crunchbase.com/organization/the-nonvisibles
+  - name: Water4ThePeople
+    url: https://www.crunchbase.com/organization/water4thepeople
+  - name: Coronavirus Tools
+    url: https://cov19.github.io/
+  - name: EldSuit Innovations 
+    url: https://github.com/eldsuit-innovations
+  - name: Quantum Academy
+    url: https://quantacademy.blogspot.com/
+  - name: The Startup Patriots
+    url: https://www.crunchbase.com/organization/the-startup-patriots  
+      
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
