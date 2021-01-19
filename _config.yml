@@ -103,8 +103,6 @@ projects:
     url: https:/aiqaunt.co
   - name: OrgDes Labs
     url: https://www.linkedin.com/showcase/orgdes-labs
-  - name: @bibleproject
-    url: https://www.minds.com/bibleproject/    
   - name: HipaaSafe2.0
     url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3    
   - name: Stark Drones
@@ -127,6 +125,8 @@ projects:
     url: https://www.crunchbase.com/organization/the-nonvisibles
   - name: Water4ThePeople
     url: https://www.crunchbase.com/organization/water4thepeople
+  - name: The Bible Project
+    url: https://www.minds.com/bibleproject/      
   - name: Coronavirus Tools
     url: https://cov19.github.io/
   - name: Quantum Academy
