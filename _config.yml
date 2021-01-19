@@ -79,16 +79,16 @@ projects:
     url: http://wecrypto.net
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
+  - name: PeerSocial
+    url: https://www.crunchbase.com/organization/peersocial
+  - name: DigitalCPR
+    url: https://www.digitalcpr.net/    
   - name: TapRocket
     url: https://taprocket.net       
   - name: Chainterra
     url: https://www.chainterra.com/
   - name: FilmVestor
     url: https://devpost.com/software/filmvestor
-  - name: PeerSocial
-    url: https://www.crunchbase.com/organization/peersocial
-  - name: DigitalCPR
-    url: https://www.digitalcpr.net/
   - name: CrowdCoin
     url: https://github.com/CrowdCoin-Team
   - name: EtherStone
