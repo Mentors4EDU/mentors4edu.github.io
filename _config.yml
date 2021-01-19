@@ -87,12 +87,18 @@ projects:
     url: https://taprocket.net       
   - name: Chainterra
     url: https://www.chainterra.com/
+  - name: CrowdCoin
+    url: https://github.com/CrowdCoin-Team    
   - name: FilmVestor
     url: https://devpost.com/software/filmvestor
-  - name: CrowdCoin
-    url: https://github.com/CrowdCoin-Team
   - name: EtherStone
     url: https://etherstone.org
+  - name: DealsGhost
+    url: https://www.crunchbase.com/organization/dealsghost
+  - name: Bleunomics
+    url: https://github.com/Bleunomics
+  - name: QuantPortal
+    url: https:/aiqaunt.co    
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
