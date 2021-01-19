@@ -71,10 +71,18 @@ projects:
     url: https://github.com/Mentors4EDU/HopePay-App-Portal        
   - name: BitToken
     url: https://github.com/Mentors4EDU/BitToken
-  - name: WeCrypto
-    url: http://wecrypto.net     
   - name: BlockFilm
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
+  - name: WeCrypto
+    url: http://wecrypto.net
+  - name: QP Foods
+    url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
+  - name: MatchPay
+    url: https://github.com/Mentors4EDU/MatchPay
+  - name: Chainterra
+    url: https://www.chainterra.com/
+  - name: TapRcoket
+    url: https://taprocket.net   
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
