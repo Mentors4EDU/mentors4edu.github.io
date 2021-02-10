@@ -153,6 +153,8 @@ projects:
     url: https://www.slated.com/films/451133/
   - name: AndSocialREW Gaming and Publishing
     url: https://www.crunchbase.com/organization/andsocialrew-gaming-and-publishing
+  - name: Andrew Kamal for Michigan 8th District Senate
+    url: https://ballotpedia.org/Andrew_Kamal
       
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
