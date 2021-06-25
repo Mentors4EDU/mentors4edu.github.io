@@ -179,10 +179,10 @@ projects:
     url: https://lonero.org/pocp.html
   - name: Offline-Centered TheNewBoston Proposal
     url: https://github.com/thenewboston-developers/Projects/issues/184
+  - name: Privacy-Focused BLE and NFC Gateway for TNB
+    url: https://github.com/thenewboston-developers/Projects/issues/187      
   - name: Andrew Kamal for Michigan 8th District Senate
     url: https://ballotpedia.org/Andrew_Kamal
-  - name: Privacy-Focused BLE and NFC Gateway for TNB
-    url: https://github.com/thenewboston-developers/Projects/issues/187  
-      
+    
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
