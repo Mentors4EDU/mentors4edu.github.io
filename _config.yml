@@ -75,20 +75,24 @@ projects:
     url: https://github.com/Mentors4EDU/BitToken
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
+  - name: FilmClout
+    url: http://filmclout.net/
+  - name: CrowdCoin
+    url: https://github.com/CrowdCoin-Team    
+  - name: BlockFilm
+    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1 
   - name: CloutPool
     url: https://cloutpool.net
   - name: CloutLock
-    url: http://cloutlock.net/    
-  - name: FilmClout
-    url: http://filmclout.net/
-  - name: BlockFilm
-    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1        
+    url: http://cloutlock.net/       
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
   - name: WeCrypto
     url: http://wecrypto.net
   - name: BitBadges
     url: https://bitbadges.web.app
+  - name: ChainBoard
+    url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board    
   - name: DigitalCPR
     url: https://www.digitalcpr.net/
   - name: PeerSocial
@@ -105,8 +109,6 @@ projects:
     url: https://etherstone.org
   - name: SpaceClout
     url: https://spaceclout.github.io/
-  - name: CrowdCoin
-    url: https://github.com/CrowdCoin-Team
   - name: DealsGhost
     url: https://www.crunchbase.com/organization/dealsghost
   - name: CloutWorld
@@ -115,8 +117,6 @@ projects:
     url: https://bleunomics.com
   - name: QuantPortal
     url: https:/aiqaunt.co
-  - name: ChainBoard
-    url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board
   - name: OrgDes Labs
     url: https://www.linkedin.com/showcase/orgdes-labs  
   - name: Stark Drones
