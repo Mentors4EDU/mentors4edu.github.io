@@ -133,10 +133,10 @@ projects:
     url: https://www.crunchbase.com/organization/blockstar-labs
   - name: OpenFranchise
     url: https://open-franchise.github.io
+  - name: AMKUPFashion
+    url: https://www.crunchbase.com/organization/amkupfashion        
   - name: CloutContracts
     url: https://cloutcontracts.net
-  - name: AMKUPFashion
-    url: https://www.crunchbase.com/organization/amkupfashion    
   - name: IntelliRadiology
     url: https://github.com/AIRadiology
   - name: The NonVisibles
