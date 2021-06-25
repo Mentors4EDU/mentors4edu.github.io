@@ -93,18 +93,18 @@ projects:
     url: https://www.digitalcpr.net/
   - name: PeerSocial
     url: https://www.crunchbase.com/organization/peersocial
-  - name: FilmVestor
-    url: https://devpost.com/software/filmvestor  
   - name: TapRocket
     url: https://taprocket.net
   - name: Chainterra
     url: https://www.chainterra.com/
   - name: CrowdCoin
-    url: https://github.com/CrowdCoin-Team       
+    url: https://github.com/CrowdCoin-Team
+  - name: FilmVestor
+    url: https://devpost.com/software/filmvestor
+  - name: EtherStone
+    url: https://etherstone.org    
   - name: Cloutathon
     url: https://cloutathon.com/
-  - name: EtherStone
-    url: https://etherstone.org
   - name: SpaceClout
     url: https://spaceclout.github.io/
   - name: DealsGhost
