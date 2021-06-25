@@ -160,11 +160,11 @@ projects:
   - name: Future Web Standards
     url: https://starkdrones.github.io/Future-Web-Standards/
   - name: AMKOU Aeronautics GP
-    url: https://www.crunchbase.com/organization/amkou-aeronautics-gp    
+    url: https://www.crunchbase.com/organization/amkou-aeronautics-gp
+  - name: Open Innovation License
+    url: https://github.com/StarkDrones/OPNL  
   - name: SolarFuel Transportation
     url: http://www.solarfuel.us/
-  - name: Open Innovation License
-    url: https://github.com/StarkDrones/OPNL
   - name: The Intellectualism Party
     url: https://www.volunteermatch.org/search/org1189644.jsp
   - name: St. George the Iron Soldier
