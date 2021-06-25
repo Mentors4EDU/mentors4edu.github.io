@@ -61,20 +61,22 @@ projects:
     url: https://https://bitclout.com/u/AMKN
   - name: Lonero
     url: https://lonero.org/
-  - name: CoolCoil
-    url: https://www.crunchbase.com/organization/coolcoil    
   - name: NohVoo
-    url: https://www.crunchbase.com/organization/nohvoo
-  - name: Armenia
-    url: https://armenia.substack.com/
+    url: https://www.crunchbase.com/organization/nohvoo    
+  - name: CoolCoil
+    url: https://www.crunchbase.com/organization/coolcoil
   - name: DigiBike
     url: https://www.crunchbase.com/organization/digibike
+  - name: Armenia
+    url: https://armenia.substack.com/    
   - name: HopePay
     url: https://github.com/Mentors4EDU/HopePay-App-Portal
   - name: BitToken
     url: https://github.com/Mentors4EDU/BitToken
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
+  - name: BlockFilm
+    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1    
   - name: FilmClout
     url: http://filmclout.net/
   - name: MatchPay
@@ -89,8 +91,6 @@ projects:
     url: https://bitbadges.web.app
   - name: TapRocket
     url: https://taprocket.net
-  - name: BlockFilm
-    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: Chainterra
     url: https://www.chainterra.com/
   - name: PeerSocial
