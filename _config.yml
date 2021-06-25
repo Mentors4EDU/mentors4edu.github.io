@@ -83,12 +83,12 @@ projects:
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
-  - name: CloutLock
-    url: http://cloutlock.net/
   - name: WeCrypto
     url: http://wecrypto.net
   - name: BitBadges
-    url: https://bitbadges.web.app  
+    url: https://bitbadges.web.app
+  - name: CloutLock
+    url: http://cloutlock.net/    
   - name: DigitalCPR
     url: https://www.digitalcpr.net/
   - name: PeerSocial
@@ -103,10 +103,10 @@ projects:
     url: https://devpost.com/software/filmvestor
   - name: EtherStone
     url: https://etherstone.org    
+  - name: SpaceClout
+    url: https://spaceclout.github.io/    
   - name: Cloutathon
     url: https://cloutathon.com/
-  - name: SpaceClout
-    url: https://spaceclout.github.io/
   - name: DealsGhost
     url: https://www.crunchbase.com/organization/dealsghost
   - name: CloutWorld
