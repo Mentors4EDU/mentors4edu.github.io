@@ -68,7 +68,7 @@ projects:
   - name: DigiBike
     url: https://www.crunchbase.com/organization/digibike
   - name: Armenia
-    url: https://armenia.substack.com/    
+    url: https://armenia.substack.com/
   - name: HopePay
     url: https://github.com/Mentors4EDU/HopePay-App-Portal
   - name: BitToken
@@ -77,14 +77,14 @@ projects:
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
   - name: FilmClout
     url: http://filmclout.net/
-  - name: BlockFilm
-    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1 
   - name: CloutPool
     url: https://cloutpool.net
-  - name: CloutLock
-    url: http://cloutlock.net/       
+  - name: BlockFilm
+    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
+  - name: CloutLock
+    url: http://cloutlock.net/
   - name: WeCrypto
     url: http://wecrypto.net
   - name: BitBadges
