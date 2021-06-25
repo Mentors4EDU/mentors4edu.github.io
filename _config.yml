@@ -107,14 +107,14 @@ projects:
     url: https://spaceclout.github.io/    
   - name: Cloutathon
     url: https://cloutathon.com/
+  - name: CloutWorld
+    url: https://bitclout.com/u/CloutWorld    
   - name: DealsGhost
     url: https://www.crunchbase.com/organization/dealsghost
-  - name: CloutWorld
-    url: https://bitclout.com/u/CloutWorld
+  - name: Bleunomics
+    url: https://bleunomics.com    
   - name: ChainBoard
     url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board    
-  - name: Bleunomics
-    url: https://bleunomics.com
   - name: QuantPortal
     url: https:/aiqaunt.co
   - name: OrgDes Labs
