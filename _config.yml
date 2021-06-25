@@ -61,7 +61,6 @@ Education:
     url: https://www.edustudio.org
   - name: Quantum Academy
     url: https://quantacademy.blogspot.com/ 
-    
 Healthcare: 
   - name: Bleunomics
     url: https://bleunomics.com
@@ -75,7 +74,6 @@ Healthcare:
     url: https://cov19.github.io/
   - name: EldSuit Innovations 
     url: https://github.com/eldsuit-innovations
-
 Entertainment:     
   - name: FilmVestor
     url: https://devpost.com/software/filmvestor
@@ -86,8 +84,7 @@ Entertainment:
   - name: St. George the Iron Soldier
     url: https://www.slated.com/films/451133/
   - name: AndSocialREW Gaming and Publishing
-    url: https://www.crunchbase.com/organization/andsocialrew-gaming-and-publishing
-    
+    url: https://www.crunchbase.com/organization/andsocialrew-gaming-and-publishing 
 Food Delivery:
   - name: NohVoo
     url: https://www.crunchbase.com/organization/nohvoo
@@ -95,7 +92,6 @@ Food Delivery:
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery        
   - name: SnackRunner
     url: https://www.crunchbase.com/organization/snackrunner
-
 Environmental Tech:
   - name: CoolCoil
     url: https://www.crunchbase.com/organization/coolcoil 
@@ -117,7 +113,6 @@ E-Commerce Projects:
     url: https://www.crunchbase.com/organization/dealsghost
   - name: AMKUPFashion
     url: https://www.crunchbase.com/organization/amkupfashion    
-    
  Blockchain Projects:
   - name: WeCrypto
     url: http://wecrypto.net  
@@ -135,7 +130,6 @@ E-Commerce Projects:
     url: https://www.crunchbase.com/organization/starthub-messenger
   - name: The Next Big NFT Collective
     url: https://mentors4edu.github.io/NFTs/
-    
 Cryptocurrency Projects:
   - name: AMKN
     url: https://https://bitclout.com/u/AMKN
@@ -167,7 +161,6 @@ Cryptocurrency Projects:
     url: https://cloutathon.com/
   - name: CloutContracts
     url: https://cloutcontracts.net
-    
  Philosophy / Other Projects:
   - name: Armenia
     url: https://armenia.substack.com/
@@ -185,7 +178,6 @@ Cryptocurrency Projects:
     url: https://www.volunteermatch.org/search/org1189644.jsp
   - name: Andrew Kamal for Michigan 8th District Senate
     url: https://ballotpedia.org/Andrew_Kamal    
-    
 Cryptocurrency Proposals:
   - name: BISQ Social Trading
     url: https://github.com/bisq-network/proposals/issues/332    
@@ -195,7 +187,6 @@ Cryptocurrency Proposals:
     url: https://lonero.org/pocp.html    
   - name: Privacy-Focused BLE and NFC Gateway for TNB
     url: https://github.com/thenewboston-developers/Projects/issues/187
-
 Consulting or Firms or Studios: 
   - name: DigitalCPR
     url: https://www.digitalcpr.net/    
