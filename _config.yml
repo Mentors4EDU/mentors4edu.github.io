@@ -56,6 +56,8 @@ links:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
+Recent Projects:
+
 Education:
   - name: Mentors4EDU
     url: https://www.edustudio.org
