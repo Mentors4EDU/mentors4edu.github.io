@@ -122,11 +122,11 @@ projects:
   - name: Stark Drones
     url: https://www.starkdrones.org
   - name: HipaaSafe2.0
-    url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3    
+    url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3
+  - name: SnackRunner
+    url: https://www.crunchbase.com/organization/snackrunner    
   - name: Startup Tools
     url: https://mentors4edu.github.io/Startup-Tools/
-  - name: SnackRunner
-    url: https://www.crunchbase.com/organization/snackrunner
   - name: Mentors4EDU
     url: https://www.edustudio.org
   - name: BlockStar Labs
