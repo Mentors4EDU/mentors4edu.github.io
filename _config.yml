@@ -57,22 +57,30 @@ links:
 
 # projects in header index
 projects:
-  - name: Lonero
+  - name: AMKN
+    url: https://https://bitclout.com/u/AMKN
+    - name: Lonero
     url: https://lonero.org/
   - name: NohVoo
     url: https://www.crunchbase.com/organization/nohvoo
   - name: CoolCoil
-    url: https://www.crunchbase.com/organization/coolcoil    
+    url: https://www.crunchbase.com/organization/coolcoil
+  - name: FilmClout
+    url: http://filmclout.net/
   - name: DigiBike
     url: https://www.crunchbase.com/organization/digibike    
   - name: Armenia
     url: https://armenia.substack.com/
   - name: HopePay
-    url: https://github.com/Mentors4EDU/HopePay-App-Portal
+    url: https://github.com/Mentors4EDU/HopePay-App-Portal    
   - name: BitToken
     url: https://github.com/Mentors4EDU/BitToken
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery    
+  - name: CloutPool
+    url: https://cloutpool.net
+  - name: CloutLock
+    url: http://cloutlock.net/   
   - name: BlockFilm
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: WeCrypto
@@ -81,10 +89,14 @@ projects:
     url: https://github.com/Mentors4EDU/MatchPay
   - name: PeerSocial
     url: https://www.crunchbase.com/organization/peersocial
+  - name: SpaceClout
+    url: https://spaceclout.github.io/
   - name: DigitalCPR
     url: https://www.digitalcpr.net/    
   - name: TapRocket
-    url: https://taprocket.net       
+    url: https://taprocket.net
+  - name: BitBadges
+    url: https://bitbadges.web.app    
   - name: Chainterra
     url: https://www.chainterra.com/
   - name: CrowdCoin
@@ -96,11 +108,15 @@ projects:
   - name: DealsGhost
     url: https://www.crunchbase.com/organization/dealsghost
   - name: Bleunomics
-    url: https://github.com/Bleunomics
+    url: https://bleunomics.com
+  - name: CloutWorld
+    url: https://bitclout.com/u/CloutWorld
+  - name: Cloutathon
+    url: https://cloutathon.com/
   - name: ChainBoard
     url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board
   - name: QuantPortal
-    url: https:/aiqaunt.co
+    url: https:/aiqaunt.co    
   - name: OrgDes Labs
     url: https://www.linkedin.com/showcase/orgdes-labs
   - name: HipaaSafe2.0
@@ -119,6 +135,8 @@ projects:
     url: https://open-franchise.github.io
   - name: AMKUPFashion
     url: https://www.crunchbase.com/organization/amkupfashion
+  - name: CloutContracts
+    url: https://cloutcontracts.net
   - name: IntelliRadiology
     url: https://github.com/AIRadiology       
   - name: The NonVisibles
