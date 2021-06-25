@@ -75,6 +75,10 @@ projects:
     url: https://github.com/Mentors4EDU/BitToken
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
+  - name: CloutPool
+    url: https://cloutpool.net
+  - name: CloutLock
+    url: http://cloutlock.net/    
   - name: FilmClout
     url: http://filmclout.net/
   - name: BlockFilm
@@ -83,16 +87,14 @@ projects:
     url: https://github.com/Mentors4EDU/MatchPay
   - name: WeCrypto
     url: http://wecrypto.net
-  - name: CloutPool
-    url: https://cloutpool.net
-  - name: CloutLock
-    url: http://cloutlock.net/
   - name: BitBadges
     url: https://bitbadges.web.app
   - name: DigitalCPR
     url: https://www.digitalcpr.net/
   - name: PeerSocial
-    url: https://www.crunchbase.com/organization/peersocial  
+    url: https://www.crunchbase.com/organization/peersocial
+  - name: FilmVestor
+    url: https://devpost.com/software/filmvestor  
   - name: TapRocket
     url: https://taprocket.net
   - name: Chainterra
@@ -101,8 +103,6 @@ projects:
     url: https://cloutathon.com/
   - name: EtherStone
     url: https://etherstone.org
-  - name: FilmVestor
-    url: https://devpost.com/software/filmvestor
   - name: SpaceClout
     url: https://spaceclout.github.io/
   - name: CrowdCoin
