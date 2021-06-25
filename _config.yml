@@ -128,13 +128,13 @@ projects:
   - name: SnackRunner
     url: https://www.crunchbase.com/organization/snackrunner
   - name: Mentors4EDU
-    url: https://www.edustudio.org    
-  - name: CloutContracts
-    url: https://cloutcontracts.net
-  - name: OpenFranchise
-    url: https://open-franchise.github.io
+    url: https://www.edustudio.org
   - name: BlockStar Labs
     url: https://www.crunchbase.com/organization/blockstar-labs
+  - name: OpenFranchise
+    url: https://open-franchise.github.io
+  - name: CloutContracts
+    url: https://cloutcontracts.net
   - name: AMKUPFashion
     url: https://www.crunchbase.com/organization/amkupfashion    
   - name: IntelliRadiology
