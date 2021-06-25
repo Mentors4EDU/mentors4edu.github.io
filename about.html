@@ -14,8 +14,43 @@ description: "About me ~ Andrew Kamal"
 
 <div class="aboutme">
 	<ul class="recent">
+		{% for project in site.education %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
 		{% for project in site.projects %}
 	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
 	    {% endfor %}
 	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+	    {% endfor %}
+	</ul>	
 </div>
