@@ -75,10 +75,10 @@ projects:
     url: https://github.com/Mentors4EDU/BitToken
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
-  - name: BlockFilm
-    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1    
   - name: FilmClout
     url: http://filmclout.net/
+  - name: BlockFilm
+    url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1        
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
   - name: WeCrypto
@@ -89,12 +89,14 @@ projects:
     url: http://cloutlock.net/
   - name: BitBadges
     url: https://bitbadges.web.app
+  - name: DigitalCPR
+    url: https://www.digitalcpr.net/
+  - name: PeerSocial
+    url: https://www.crunchbase.com/organization/peersocial  
   - name: TapRocket
     url: https://taprocket.net
   - name: Chainterra
     url: https://www.chainterra.com/
-  - name: PeerSocial
-    url: https://www.crunchbase.com/organization/peersocial
   - name: Cloutathon
     url: https://cloutathon.com/
   - name: EtherStone
@@ -107,8 +109,6 @@ projects:
     url: https://github.com/CrowdCoin-Team
   - name: DealsGhost
     url: https://www.crunchbase.com/organization/dealsghost
-  - name: DigitalCPR
-    url: https://www.digitalcpr.net/
   - name: CloutWorld
     url: https://bitclout.com/u/CloutWorld
   - name: Bleunomics
@@ -117,18 +117,18 @@ projects:
     url: https:/aiqaunt.co
   - name: ChainBoard
     url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board
-  - name: Mentors4EDU
-    url: https://www.edustudio.org
+  - name: OrgDes Labs
+    url: https://www.linkedin.com/showcase/orgdes-labs  
   - name: Stark Drones
     url: https://www.starkdrones.org
-  - name: OrgDes Labs
-    url: https://www.linkedin.com/showcase/orgdes-labs
   - name: Startup Tools
     url: https://mentors4edu.github.io/Startup-Tools/
   - name: SnackRunner
     url: https://www.crunchbase.com/organization/snackrunner
   - name: HipaaSafe2.0
     url: https://www.starkdrones.org/home/os#h.p_SUnfzfkBJFC3
+  - name: Mentors4EDU
+    url: https://www.edustudio.org    
   - name: CloutContracts
     url: https://cloutcontracts.net
   - name: OpenFranchise
