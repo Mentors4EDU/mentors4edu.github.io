@@ -77,8 +77,6 @@ projects:
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
   - name: FilmClout
     url: http://filmclout.net/
-  - name: CrowdCoin
-    url: https://github.com/CrowdCoin-Team    
   - name: BlockFilm
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1 
   - name: CloutPool
@@ -90,9 +88,7 @@ projects:
   - name: WeCrypto
     url: http://wecrypto.net
   - name: BitBadges
-    url: https://bitbadges.web.app
-  - name: ChainBoard
-    url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board    
+    url: https://bitbadges.web.app  
   - name: DigitalCPR
     url: https://www.digitalcpr.net/
   - name: PeerSocial
@@ -105,6 +101,8 @@ projects:
     url: https://www.chainterra.com/
   - name: Cloutathon
     url: https://cloutathon.com/
+  - name: CrowdCoin
+    url: https://github.com/CrowdCoin-Team    
   - name: EtherStone
     url: https://etherstone.org
   - name: SpaceClout
@@ -115,6 +113,8 @@ projects:
     url: https://bitclout.com/u/CloutWorld
   - name: Bleunomics
     url: https://bleunomics.com
+  - name: ChainBoard
+    url: https://www.kickstarter.com/projects/quantumphysics/chainboard-the-next-gen-wireless-dev-board   
   - name: QuantPortal
     url: https:/aiqaunt.co
   - name: OrgDes Labs
