@@ -2,7 +2,7 @@
 
 #### Currently under construction
 
-*Site settings pending*
+**Site settings pending**
 
 **Controls:** Either click on the menu **OR** use *backspace* + *key*
 
