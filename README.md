@@ -1,8 +1,6 @@
 ## [mentors4edu.github.io](https://mentors4edu.github.io/)
 
-#### Currently under construction
-
-***Site settings are pending***
+#### Currently under construction | Site settings are pending
 
 **Controls:** Either click on the menu **OR** use *backspace* + *key*
 
