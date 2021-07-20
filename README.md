@@ -1,9 +1,5 @@
 ## [mentors4edu.github.io](https://mentors4edu.github.io/)
 
-*This is what aims to become the official Mentors4EDU page*
-
-#### Currently under construction | Site settings are pending
-
 **Controls:** Either click on the menu **OR** use *backspace* + *key*
 
 > I am working on more than just startups, I am creating a movement
