@@ -63,6 +63,8 @@ projects:
     url: https://www.crunchbase.com/organization/nohvoo    
   - name: CoolCoil
     url: https://www.crunchbase.com/organization/coolcoil
+  - name: Algocoin
+    url: https://algocoin.io    
   - name: DigiBike
     url: https://www.crunchbase.com/organization/digibike
   - name: Armenia
@@ -74,17 +76,13 @@ projects:
   - name: QP Foods
     url: https://www.crunchbase.com/organization/qp-foods-calorie-search-delivery
   - name: FilmClout
-    url: http://filmclout.net/
-  - name: StarkChain
-    url: https://starkchain.dev/        
+    url: http://filmclout.net/      
   - name: CloutPool
     url: https://cloutpool.net
   - name: BlockFilm
     url: https://www.starkdrones.org/home/os#h.p_cXiUaElgu0I1
   - name: MatchPay
     url: https://github.com/Mentors4EDU/MatchPay
-  - name: Algocoin
-    url: https://algocoin.io
   - name: WeCrypto
     url: http://wecrypto.net
   - name: BitBadges
@@ -109,6 +107,8 @@ projects:
     url: https://spaceclout.github.io/    
   - name: Cloutathon
     url: https://cloutathon.com/
+  - name: StarkChain
+    url: https://starkchain.dev/      
   - name: CloutWorld
     url: https://bitclout.com/u/CloutWorld    
   - name: DealsGhost
