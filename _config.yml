@@ -101,10 +101,10 @@ projects:
     url: https://github.com/CrowdCoin-Team
   - name: FilmVestor
     url: https://devpost.com/software/filmvestor
-  - name: EtherStone
-    url: https://etherstone.org    
   - name: StarkChain
-    url: https://starkchain.dev/          
+    url: https://starkchain.dev/     
+  - name: EtherStone
+    url: https://etherstone.org       
   - name: SpaceClout
     url: https://spaceclout.github.io/    
   - name: Cloutathon
