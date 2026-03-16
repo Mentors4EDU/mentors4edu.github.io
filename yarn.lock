@@ -1795,8 +1795,8 @@ imagemin@^4.0.0:
     imagemin-svgo "^4.0.0"
 
 immutable@^3.3.0:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.1.tgz#200807f11ab0f72710ea485542de088075f68cd2"
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.3.tgz#0a8d2494a94d4b2d4f0e99986e74dd25d1e9a859"
 
 indent-string@^1.1.0:
   version "1.2.2"
